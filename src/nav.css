@@ -1,0 +1,61 @@
+#three{
+  border-radius: 25px; 
+}
+.one{
+    letter-spacing: 5px;
+    font-weight: bold;
+    color:white;
+
+}
+
+.three {
+    position: relative;
+  }
+  
+  .bottomleft {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    top: 220px;
+    left: 16px;
+    font-size: 18px;
+
+  }
+  
+  .two{ 
+    width: 100%;
+    height: auto;
+    height: 35vh;
+  }
+  .bottomright
+  {
+    position: absolute;
+    left: 225px;
+    width: 250px;
+    height: 100px;
+  }
+  .five
+  {
+    border: 1px #DCDCDC solid;
+    border-radius: 0;
+    padding: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 5px;
+    margin:15px;
+    color:"#DCDCDC"
+  
+  }
+  .six{
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+  .seven{
+    margin-top: 180px;
+
+  }
+  .eight{
+   
+    text-decoration: none;
+  }
