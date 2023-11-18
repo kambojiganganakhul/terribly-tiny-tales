@@ -1,6 +1,6 @@
 This is the Project submitted to terribly-tiny-tales 
 
-live link : https://655669fe1d9a26110e5a201e--vocal-peony-c487da.netlify.app/
+live link :https://vocal-peony-c487da.netlify.app/
 
   "dependencies in the project": {
     "@fortawesome/fontawesome-svg-core": "^6.4.2",
