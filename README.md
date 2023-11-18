@@ -36,15 +36,15 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 
 
-@fortawesome/react-fontawesome:
+-> @fortawesome/react-fontawesome:
 This package provides a React component for using Font Awesome icons in a React application.
 It acts as a bridge between Font Awesome icons and React, allowing you to easily include and customize icons in your React components.
 
 
-@fortawesome/free-solid-svg-icons:
+-> @fortawesome/free-solid-svg-icons:
 This package contains the free solid style icons from Font Awesome.
 It includes a collection of icons that have a solid, filled appearance.
 
 
 
-i have used json for storing data and the data fetched by using map function in fetchdata.js
+->i have used json for storing data and the data fetched by using map function in fetchdata.js
